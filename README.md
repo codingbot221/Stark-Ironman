@@ -25,14 +25,39 @@ Dive into a showcase of **projects**, **skills**, and **experiences**, all prese
 
 ---
 
-## 🚀 How to Contribute
+## 📂 How to Run the Project Locally
 
-### 🍴 Fork the Repository
-- Go to the [**Stark Tech Portfolio**](https://github.com/codingbot221/Stark-Ironman.git).
-- Click the **Fork** button (top-right) to create your own copy.
+> You only need a modern web browser like Chrome, Firefox, or Edge — no backend setup required.
 
-### 💻 Clone Your Fork
+### 💻 Steps
 
+1. **Clone the Repository**
+
+git clone https://github.com/codingbot221/Stark-Ironman.git
+Navigate to the Project Directory
+
+bash
+Copy
+Edit
+cd Stark-Ironman
+Open the Project
+
+Simply open the index.html file in your browser.
+
+On most systems, you can just double-click index.html or right-click → Open with browser.
+
+Alternatively, use VS Code with Live Server extension for live reload and faster testing.
+
+🚀 How to Contribute
+🍴 Fork the Repository
+Go to the Stark Tech Portfolio.
+
+Click the Fork button (top-right) to create your own copy.
+
+💻 Clone Your Fork
+bash
+Copy
+Edit
 git clone https://github.com/your-username/Stark-Ironman.git
 🌿 Create a New Branch
 bash
@@ -66,20 +91,15 @@ Write a clear, concise description of your changes.
 Submit your PR!
 
 🌐 Live Demo
-🚀 Check out the live site: https://stark-ironman.vercel.app/
+🚀 Check out the live site: stark-ironman.vercel.app
 
 📬 Contact Me
 Feel free to reach out with questions, suggestions, or collaboration ideas!
 
-🔹 GitHub: codingbot221
+🔹 GitHub: @codingbot221
 
 🔹 LinkedIn: Aishwarya Garikapati
 
 ⭐ Star the Project
 If you like this project, please consider giving it a ⭐ on GitHub — it really helps!
 
-📄 Ending Note
-Thank you for exploring the Stark Tech Portfolio!
-Your feedback and contributions are always welcome.
-
-🙌 Let's build something legendary, just like Tony Stark would!
